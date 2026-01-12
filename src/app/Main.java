@@ -14,19 +14,3 @@ public class Main {
         printOrder(2, "Tom", "laptop", 570.95, "Terra Street, 17");
     }
 }
-
-/*реалізуйте функціонал формування замовлень.
-При реалізації функціоналу зверніть увагу на створення
-та перевикористання певних змінних
-для відповідних даних замовлення.
-
-Order No 1 Client: Alice.
-Product: smartphone,
-price EUR 305.99.
-Address: Moon Street, 10.
-Order No 2 Client: 2.
-Product: laptop,
-price EUR 570.95.
-Address: Terra Street, 17.
-
-*/
